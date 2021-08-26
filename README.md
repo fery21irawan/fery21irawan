@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fery21irawan
+- 👋 Hi, I’m **Fery Irawan**
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning Android Architecture Component
 - 💞️ I’m looking to collaborate on ...
