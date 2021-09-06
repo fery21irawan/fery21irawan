@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fery Irawan</h1>
+<img src="https://github.com/fery21irawan/fery21irawan.github.io/blob/master/img/image17.png" alt="fery21irawan github portfolio"/>
 <h4 align="center">I am Focus on Android Application Development. I have experience developing Android Application using Java or Kotlin and also build RESTful API using Codeigniter framework</h3>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=fery21irawan&label=visitors%20&color=129e00&style=plastic" alt="hanshulll" /> </p> -->
 
